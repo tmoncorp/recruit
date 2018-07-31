@@ -18,9 +18,9 @@
 - 공통 API 
 - 퀴즈쇼 & 출석체크 서비스
 
-![퀴즈쇼](./q1.jpg)
-![퀴즈쇼](./q2.jpg)
-![퀴즈쇼](./q3.jpg)
+![퀴즈쇼](./quizshow-image/q1.jpg)
+![퀴즈쇼](./quizshow-image/q2.jpg)
+![퀴즈쇼](./quizshow-image/q3.jpg)
 
 ## 채용 중인 포지션
 
