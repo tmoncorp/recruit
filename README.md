@@ -22,4 +22,4 @@
 
 - Frontend 개발
 - Backend 개발
-- QA
+- [QA](./qa.md)
