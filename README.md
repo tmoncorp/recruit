@@ -27,3 +27,8 @@
 - Frontend 개발
 - Backend 개발
 - [QA](./qa.md)
+
+
+## 지원 방법
+
+[티몬 인재 채용](https://recruit.tmon.co.kr/recruit/list/001#page=1) 에서 지원해 주세요~!
