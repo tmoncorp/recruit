@@ -11,9 +11,9 @@
 
 ### 퀴즈쇼 & 출석체크 서비스 QA
 
-![퀴즈쇼](./q1.jpg)
-![퀴즈쇼](./q2.jpg)
-![퀴즈쇼](./q3.jpg)
+![퀴즈쇼](./quizshow-image/q1.jpg)
+![퀴즈쇼](./quizshow-image/q2.jpg)
+![퀴즈쇼](./quizshow-image/q3.jpg)
 
 * 서비스 테스트 계획 수립 및 스프린트 관리
 * 테스트 케이스 작성 및 테스트 수행
